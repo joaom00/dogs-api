@@ -30,7 +30,7 @@ function api_photo_post($request) {
     'meta_input' => [
       'weight' => $weight,
       'age' => $age,
-      'acessos' => 0,
+      'access' => 0,
     ],
   ];
 
